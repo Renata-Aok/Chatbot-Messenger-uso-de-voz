@@ -64,15 +64,4 @@ https://m.me/botreservas.com.br?fbclid=IwAR3eaz15vYKrGpUFhiNhs2nddJhQIX3CNpt51jp
 Vídeo da aplicação funcionando:
 https://drive.google.com/drive/folders/12RGxsFaQa-OWt1Gw42Cvd4JPJmO1DOJo?usp=sharing
 
-Alunos:
-Aguida Santos Dantas
-Fernando Pereira Sodero Neto
-Renata Rodrigues de Carvalho
-
-Att.
-
-Renata Rodrigues de Carvalho
-
-
-
 
