@@ -10,17 +10,16 @@ Etapas da Aplicação
 
 - Criação ChatBot simples com Watson Assistant - Reserva de mesa;
  
-Credenciais da skill
-Skill details
 Skill name:Reserva mesa
 Skill ID:8775d1c5-8dcd-4cd9-9207-a8f3348268f7
 Legacy v1 workspace URL:https://api.us-south.assistant.watson.cloud.ibm.com/instances/4d04144e-5b0a-4b5f-89b7-c42ad3a7ea03/v1/workspaces/8775d1c5-8dcd-4cd9-9207-a8f3348268f7/message
-Service credentials
+
+
 Service credentials name:fe0d33d3-4ed9-4737-a09d-32459dfcd082
 API key:J4QK1x185lAAYT3Dv-XC1FhEyKIVXHefsP266meUK-EY
+
 Service credentials name:auto-generated-apikey-b3b28e11-c15c-4169-b1cd-85c11b60f495
 API key:8v_C_CzKsL1z_ulFz_UALdf9cKbycE7iahD2D0CKA1fi
-Service credentials name:Auto-generated service credentials
 
 - Além do Watson Assistant foram criados mais dois serviços no IBM Cloud: Watson Speech to Text e  Text to Speech;
  
