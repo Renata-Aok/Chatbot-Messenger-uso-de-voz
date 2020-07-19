@@ -46,7 +46,8 @@ Arquivo Json do Fluxo, em anexo
 
 
 
- ###### O bot simples é para reserva de mesa em um restaurante genérico.
+ ###### 
+ O bot simples é para reserva de mesa em um restaurante genérico.
 Sugestões de perguntas ao Bot:
 
 - Saudações: bom dia, boa tarde, boa noite, olá, oi, como vai?
@@ -54,7 +55,24 @@ Sugestões de perguntas ao Bot:
 - Onde vocês ficam? Fica onde? Qual endereço?
 - Despedida: tchau, até logo, fui, tchau, tô indo, valeu
 - Cancelar: desisti, esqueçe, cancela, não quero mais, depois falo com você
+######
 
 
-Link para conversação com o bot em dispositivo mobile:
-https://m.me/botreservas.com.br?fbclid=IwAR3eaz15vYKrGpUFhiNhs2nddJhQIX3CNpt51jpURmbD7jarnmU3u34nRlQ
+Link para conversação com o ChatBot messenger mobile:
+https://m.me/botreservas.com.br?fbclid=IwAR3eaz15vYKrGpUFhiNhs2nddJhQIX3CNpt51jpURmbD7jarnmU3u34nRlQ 
+
+Vídeo da aplicação funcionando:
+https://drive.google.com/drive/folders/12RGxsFaQa-OWt1Gw42Cvd4JPJmO1DOJo?usp=sharing
+
+Alunos:
+Aguida Santos Dantas
+Fernando Pereira Sodero Neto
+Renata Rodrigues de Carvalho
+
+Att.
+
+Renata Rodrigues de Carvalho
+
+
+
+
